@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 source "https://rubygems.org"
 ruby RUBY_VERSION
 
@@ -22,3 +23,7 @@ gem "minima", "~> 2.0"
 group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
 end
+=======
+source 'https://rubygems.org'
+gem 'github-pages', group: :jekyll_plugins
+>>>>>>> ce42a00035ffe00ad50cf396108ffd5af110f2ef
