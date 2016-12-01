@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to VNGIoTLab!"
 date:   2016-12-01 15:01:13 +0700
 categories: jekyll update
 ---
